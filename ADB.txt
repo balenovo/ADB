@@ -9,3 +9,11 @@ readwise.io##.fixed-notification
 readwise.io##.hidden-fade
 readwise.io##.visible-fade
 readwise.io##.fixed-notification-close
+##.upgrade-footer
+##.trial-message
+##.fixed-notification.visible-fade
+##.fixed-notification.hidden-fade
+##.fixed-notification
+##.hidden-fade
+##.visible-fade
+##.fixed-notification-close
