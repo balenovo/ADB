@@ -1,4 +1,4 @@
-!--------------------------General blocking rules-----------------------------!
+[Adblock Plus 2.0]
 readwise.io##.upgrade-footer
 readwise.io##.trial-message
 readwise.io##.fixed-notification.visible-fade
