@@ -5,3 +5,4 @@ readwise.io##.upgrade-footer
 readwise.io##.trial-message
 ##.fixed-notification.visible-fade
 ##.fixed-notification.hidden-fade
+##.fixed-notification
