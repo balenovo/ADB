@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: ADB
 
+https://readwise.io/dailyreview
 readwise.io##.upgrade-footer
 readwise.io##.trial-message
 readwise.io##.fixed-notification.visible-fade
